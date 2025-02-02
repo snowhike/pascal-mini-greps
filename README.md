@@ -18,7 +18,7 @@ A standard install of Free Pascal or Lazarus should be all that's needed to comp
 
 `CGEFindFiles.pas` uses as many [Castle Game Engine](https://castle-engine.io) routines as I could find to perform the search.
 
-This program requires Castle Game Engine to be [downloaded](https://castle-engine.io/download) and the packages [installed[(https://castle-engine.io/fpmake) to compile from the commandline:
+This program requires Castle Game Engine to be [downloaded](https://castle-engine.io/download) and the packages [installed](https://castle-engine.io/fpmake) to compile from the commandline:
 
     fpc CGEFindFiles.pas
 
