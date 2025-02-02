@@ -33,3 +33,6 @@ Both programs use a similar command line format:
 > CGEFindFiles uses the CastleParameters unit and therefore supports long option names as well.
 
 
+![image](https://github.com/user-attachments/assets/a4395484-4404-456f-ac50-d8d14d025035)
+> a successful run!
+
